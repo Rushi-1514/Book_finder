@@ -37,6 +37,7 @@ Built with performance in mind: fast search, client-side sorting, debounced quer
 
 1. **Clone the repo**
    ``bash
-   git clone https://github.com/your-username/Book_finder.git
-   cd Book_finder
-   npm run dev
+   git clone https://github.com/Rushi-1514/Book_finder.git
+2. Change the directory: cd book_finder
+3. Run the application: npm run dev      
+   
