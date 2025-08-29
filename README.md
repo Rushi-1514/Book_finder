@@ -20,6 +20,8 @@ Built with performance in mind: fast search, client-side sorting, debounced quer
 
 ## 🖼 Preview
 <img width="1900" height="924" alt="image" src="https://github.com/user-attachments/assets/d15b6a8b-bfeb-4a00-8981-81732f39a88a" />
+<img width="1860" height="920" alt="image" src="https://github.com/user-attachments/assets/fbd085d4-a701-4f2d-bdea-63d6c5623774" />
+
 
 
 ---
